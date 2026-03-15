@@ -11,10 +11,13 @@ Desenvolvedor de Software  Mar 2025 – o momento
 Monitoria de Estudos de Matemática - Etec Aristóteles Ferreira (2022)
 - Liderei um grupo de estudos em monitoria de aulas de matemática nível ensino médio.
 ## Certificações
-Design Pattern - Software Design and Architecture Specialization - University of Alberta
-![Link Certificado](https://www.coursera.org/account/accomplishments/verify/UBYAXR3MKQ00)
-Object-Oriented Design - Software Design and Architecture Specialization - University of Alberta
-![Link Certificado](https://www.coursera.org/account/accomplishments/verify/ELN0H413HNTI)
+-Design Pattern - Software Design and Architecture Specialization - University of Alberta
+
+[Link Certificado](https://www.coursera.org/account/accomplishments/verify/UBYAXR3MKQ00)
+
+-Object-Oriented Design - Software Design and Architecture Specialization - University of Alberta
+
+[Link Certificado](https://www.coursera.org/account/accomplishments/verify/ELN0H413HNTI)
 
 ## Formação
 Formação
