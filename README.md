@@ -1,8 +1,20 @@
 
 
 ## Sobre mim
-Olá! Sou Ricardo Matos de Jesus Júnior, um jovem de 18 anos apaixonado por desenvolvimento de software e resolução de problemas. Atualmente moro em Santos (SP) e possuo 3 anos de experiência em programação.
-Busco oportunidades para aplicar e expandir meus conhecimentos na área de tecnologia.
+Olá! Sou Ricardo Matos de Jesus Júnior, desenvolvedor de software de 19 anos, morador de Santos (SP), com 4 anos de prática em programação e 1 ano e 3 meses de experiência profissional. Apaixonado por resolver problemas e aprender novas tecnologias, busco oportunidades para continuar crescendo na área de tecnologia com foco em boas práticas como DDD, TDD e arquitetura limpa.
+## Experiência
+Analista Desenvolvedor — Sistema Jurídico   Out 2025 – o momento
+- Nessa experiência, analisei e desenvolvi uma RESTful API para um produto jurídico utilizando Python e FastApi,
+Desenvolvedor de Software  Mar 2025 – o momento
+- Daoster
+- Desenvolvi aplicação web full-stack com php com experiência na integração do motor de templates Smarty
+Monitoria de Estudos de Matemática - Etec Aristóteles Ferreira (2022)
+- Liderei um grupo de estudos em monitoria de aulas de matemática nível ensino médio.
+## Certificações
+Design Pattern - Software Design and Architecture Specialization - University of Alberta
+![Link Certificado](https://www.coursera.org/account/accomplishments/verify/UBYAXR3MKQ00)
+Object-Oriented Design - Software Design and Architecture Specialization - University of Alberta
+![Link Certificado](https://www.coursera.org/account/accomplishments/verify/ELN0H413HNTI)
 
 ## Formação
 Formação
@@ -16,10 +28,9 @@ Durante meu curso técnico, adquiri conhecimento em diversas áreas da tecnologi
 - Design e Interface: Habilidades em Design Digital e uso do Photoshop para criação de interfaces e materiais gráficos.
 - Documentação Técnica e Análise de Sistemas: Produção de documentação detalhada e análise de requisitos para desenvolvimento de sistemas.
 - Sistemas Embarcados: Conhecimento em hardware e software para o desenvolvimento de soluções embarcadas.
+Análise e Desenvolvimento de Sistemas (Noturno) - Fatec Rubens Lara “Santos”  (2025-2027)
+Atualmente cursando o 3º ciclo da graduação em Análise e Desenvolvimento de Sistemas, aprofundando conhecimentos em engenharia de software, arquitetura de sistemas e desenvolvimento de aplicações.
 
-## Experiência
-Monitoria de Estudos de Matemática - Etec Aristóteles Ferreira (2022)
-- Liderei um grupo de estudos em monitoria de aulas de matemática nível ensino médio.
 
 ## Techs
 <div align="left">
