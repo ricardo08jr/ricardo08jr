@@ -78,7 +78,7 @@ Português (Nativo)
 - ricardo08jr@hotmail.com
 - Telefone: +55 (13) 98865-4001
 - [Portifólio](https://ricardo08jr.github.io/):
-- [Linkedin](linkedin.com/in/ricardojúnior-dev) 
+- [Linkedin](https://www.linkedin.com/in/ricardoj%C3%BAnior-dev/)
 
 
 
