@@ -3,9 +3,9 @@
 ## Sobre mim
 Olá! Sou Ricardo Matos de Jesus Júnior, desenvolvedor de software de 19 anos, morador de Santos (SP), com 4 anos de prática em programação e 1 ano e 3 meses de experiência profissional. Apaixonado por resolver problemas e aprender novas tecnologias, busco oportunidades para continuar crescendo na área de tecnologia com foco em boas práticas como DDD, TDD e arquitetura limpa.
 ## Experiência
-Analista Desenvolvedor — Sistema Jurídico   Out 2025 – o momento
+Analista Desenvolvedor — Sistema Jurídico   Out 2025 – Mar 2026
 - Nessa experiência, analisei e desenvolvi uma RESTful API para um produto jurídico utilizando Python e FastApi,
-Desenvolvedor de Software  Mar 2025 – o momento
+Desenvolvedor de Software  Mar 2025 – Abr 2026
 - Daoster
 - Desenvolvi aplicação web full-stack com php com experiência na integração do motor de templates Smarty
 Monitoria de Estudos de Matemática - Etec Aristóteles Ferreira (2022)
