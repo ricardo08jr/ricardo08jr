@@ -37,6 +37,13 @@ Atualmente cursando o 3º ciclo da graduação em Análise e Desenvolvimento de 
 
 ## Techs
 <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/junit5/25A162" height="40" alt="junit logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/mockito/78A641" height="40" alt="mockito logo"  />
+  <img width="12" />
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
